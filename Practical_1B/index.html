@@ -48,7 +48,7 @@
               users.push(response);
               localStorage.setItem('users', JSON.stringify(users));
 
-              // Redirect to user-list.html page
+              // Redirect to user-list.html page          
               window.location.href = 'user-list.html';
             } else {
               console.error('Error:', xhr.statusText);
