@@ -26,3 +26,11 @@
  2. What is use of Github?
  3. What is use of git init, git status, git add ., git commit, git push commands? 
  4. Explain the steps to push your code to Github from Visual Studio Code terminal?.
+
+
+
+
+
+
+
+ 
