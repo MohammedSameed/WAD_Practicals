@@ -1,0 +1,13 @@
+npm --version
+
+npm install -g @angular/cli@latest
+
+npm add part-c
+
+# put regstration form in component.html
+#link functions in component.ts 
+
+
+cd part-c 
+
+npm serve 
